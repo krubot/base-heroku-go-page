@@ -1,1 +1,1 @@
-web: base-heroku-go-app
+web: base-heroku-go-page
